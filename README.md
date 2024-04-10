@@ -1,10 +1,10 @@
-#LSTM
+# LSTM
 
 Long short-term memory to predict a time series
 
 The example was written in Go lang and uses SPAGO
 
-##Install
+## Install
 
 - Clone the repository
 ```console
